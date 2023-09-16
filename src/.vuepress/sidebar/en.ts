@@ -4,18 +4,22 @@ export const enSidebar = sidebar({
   "/": [
     "",
     {
-      text: "Demo",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
+      text: "商品展示",
+      icon: "box",
+      prefix: "show/",
+      link: "show/",
+      children: [
+        "abba-1",
+        "abba-2",
+        "abba-3",
+      ],
     },
     {
-      text: "Docs",
-      icon: "book",
-      prefix: "guide/",
+      text: "关于",
+      icon: "info",
+      prefix: "about/",
+      link: "about/",
       children: "structure",
     },
-    "slides",
   ],
 });

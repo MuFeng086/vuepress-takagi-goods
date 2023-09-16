@@ -4,18 +4,17 @@ export const zhSidebar = sidebar({
   "/zh/": [
     "",
     {
-      text: "案例",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      text: "商品展示",
+      icon: "box",
+      prefix: "show/",
+      link: "show/",
       children: "structure",
     },
     {
-      text: "文档",
-      icon: "book",
-      prefix: "guide/",
+      text: "关于",
+      icon: "info",
+      prefix: "about/",
       children: "structure",
     },
-    "slides",
   ],
 });
