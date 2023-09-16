@@ -6,15 +6,13 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
+    name: "轻虹空雨",
     url: "https://mister-hope.com",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
-
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  logo: "https://pic.mufeng086.com/i/2023/09/16/nc44ft.webp",
 
   docsDir: "src",
 
@@ -26,7 +24,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "<a href=\"https://vuepress.vuejs.org/\"><img src=\"https://img.shields.io/badge/VuePress-2.0.0-brightgreen?style=flat&logo=vue.js\" alt=\"VuePress\"></a> <a href=\"https://github.com/vuepress-theme-hope/vuepress-theme-hope\"><img src=\"https://img.shields.io/badge/Theme-Hope-3eaf7c?style=flat\" alt=\"Theme\"></a> <a href=\"https://vercel.com/\"><img src=\"https://img.shields.io/badge/Vercel-gray?style=flat&logo=vercel\" alt=\"Vercel\"></a>",
 
       displayFooter: true,
 
@@ -45,7 +43,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "<a href=\"https://vuepress.vuejs.org/\"><img src=\"https://img.shields.io/badge/VuePress-2.0.0-brightgreen?style=flat&logo=vue.js\" alt=\"VuePress\"></a> <a href=\"https://github.com/vuepress-theme-hope/vuepress-theme-hope\"><img src=\"https://img.shields.io/badge/Theme-Hope-3eaf7c?style=flat\" alt=\"Theme\"></a> <a href=\"https://vercel.com/\"><img src=\"https://img.shields.io/badge/Vercel-gray?style=flat&logo=vercel\" alt=\"Vercel\"></a>",
 
       displayFooter: true,
 
@@ -65,13 +63,6 @@ export default hopeTheme({
 
   plugins: {
     // You should generate and use your own comment service
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {

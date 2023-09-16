@@ -2,29 +2,11 @@ import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
   "/",
-  "/demo/",
+  "/show/",
+  "/about/",
   {
-    text: "Guide",
-    icon: "lightbulb",
-    prefix: "/guide/",
-    children: [
-      {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "#" }],
-      },
-      {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
-      },
-    ],
-  },
-  {
-    text: "V2 Docs",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/",
+    text: "高木站点导航",
+    icon: "link",
+    link: "https://takagi3.cn",
   },
 ]);

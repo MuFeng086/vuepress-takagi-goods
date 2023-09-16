@@ -7,11 +7,11 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "高木同学同人周边Go",
+      description: "展示由民间制作的高木同学谷子",
     },
   },
-
+  
   theme,
 
   // Enable it with pwa
