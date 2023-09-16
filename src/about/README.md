@@ -12,7 +12,8 @@ icon: info
 
 @tab 阿巴Abba_
 
-**QQ群：【TKG高木·总部】阿巴Abba_饭堂(424942134)** <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=CwlaqBXXtKDhJdjAGo4_KYGgrnZWHiN8&jump_from=webapi&authKey=wlqoe84+40PnYyA0j0psPBPv5foebyfvQ9tOFPJVBp/mG6Zjmc6XFh3naA/fptTD"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="【TKG高木·总部】阿巴A" title="【TKG高木·总部】阿巴A"></a>
+哔哩哔哩（@是阿巴捏）：https://space.bilibili.com/1203140540
+**拼团QQ群：【TKG高木·总部】阿巴Abba_饭堂(424942134)** <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=CwlaqBXXtKDhJdjAGo4_KYGgrnZWHiN8&jump_from=webapi&authKey=wlqoe84+40PnYyA0j0psPBPv5foebyfvQ9tOFPJVBp/mG6Zjmc6XFh3naA/fptTD"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="【TKG高木·总部】阿巴A" title="【TKG高木·总部】阿巴A"></a>
 
 @tab 轻虹空雨（MuFeng086）
 
