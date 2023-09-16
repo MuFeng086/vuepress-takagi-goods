@@ -3,12 +3,14 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://sell.takagi3.top",
 
   author: {
     name: "轻虹空雨",
     url: "https://mister-hope.com",
   },
+
+  favicon: "https://pic.mufeng086.com/i/2023/09/16/nc44ft.webp",
 
   iconAssets: "fontawesome-with-brands",
 
