@@ -16,6 +16,8 @@ export default hopeTheme({
 
   docsDir: "src",
 
+  repo: "https://github.com/MuFeng086/vuepress-takagi-goods",
+
   locales: {
     "/": {
       // navbar
@@ -29,7 +31,7 @@ export default hopeTheme({
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "在 GitHub 上编辑此页",
       },
     },
 

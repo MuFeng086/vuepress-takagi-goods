@@ -15,7 +15,7 @@ export const enSidebar = sidebar({
       ],
     },
     {
-      text: "关于",
+      text: "关于/联络",
       icon: "info",
       prefix: "about/",
       link: "about/",

@@ -10,8 +10,8 @@ bgImageDark: https://pic.mufeng086.com/i/2023/09/16/pcsd85.webp
 bgImageStyle:
   background-attachment: fixed
 heroFullScreen: true
-heroText: 高木同学同人谷展示站
-tagline: 展示由民间制作的高木同学谷
+heroText: 高木同学同人谷展示区
+tagline: 展示由民间粉丝制作的同人周边
 actions:
   - text: 商品展示
     link: ./show/

@@ -5,8 +5,17 @@ export const enNavbar = navbar([
   "/show/",
   "/about/",
   {
-    text: "高木站点导航",
-    icon: "link",
-    link: "https://takagi3.cn",
+    text: "链接",
+    icon: "sitemap",
+    children: [
+      {
+        text: "高木站点导航",
+        link: "https://takagi3.cn", 
+      },
+      {
+        text: "站长博客",
+        link: "https://mufeng086.com",
+      },
+    ]
   },
 ]);
