@@ -1,17 +1,18 @@
 ---
-title: 【天青月白 · 春】系列
+title: Cyan & White · Spring Series
 category: 
     - 阿巴Abba_
 tag:
-    - 已收官
-    - 春季
+    - Ended
+    - Spring
 ---
-::: tip 提示
-**本页装修中，敬请期待**
-:::
-::: info 信息
-**制作者：阿巴Abba_**
-**开展时间：2023.03**
+::: tip
+**This page is still under development and will be further improved. Please stay tuned for updates.**
 :::
 
-![主宣发图](https://pic.mufeng086.com/i/2023/09/16/o1eap5.webp)
+::: info 
+**Creator：阿巴Abba_**
+**Start Time：2023.03**
+:::
+
+![Promotional Poster](https://pic.mufeng086.com/i/2023/09/16/o1eap5.webp)

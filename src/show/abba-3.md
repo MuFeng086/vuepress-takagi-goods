@@ -1,56 +1,53 @@
 ---
-title: 【鸟语蝉鸣 · 夏】系列
+title: Colorful · Summer Series
 category: 
     - 阿巴Abba_
 tag:
-    - 已收官
-    - 夏季
+    - Ended
+    - Summer
 ---
-::: tip 提示
-**本页装修中，敬请期待**
+::: tip
+**This page is still under development and will be further improved. Please stay tuned for updates.**
 :::
 
 ::: info 信息
-**制作者：阿巴Abba_**
-**开展时间：2023.08**
+**Creator：阿巴Abba_**
+**Start Time：2023.08**
 :::
-![主宣发图](https://pic.mufeng086.com/i/2023/09/16/nvfget.webp)
+![Promotional Poster](https://pic.mufeng086.com/i/2023/09/16/nvfget.webp)
 ---
 
-## 子系列：荷月
+## Subseries 1
 
 ![](https://pic.mufeng086.com/i/2023/09/16/o2bs4m.webp)
 
-
 ::: tabs
 
-@tab 立牌
+@tab Acrylic stand
 ![](https://pic.mufeng086.com/i/2023/09/16/o4qjfq.webp)
 
-**尺寸**：16cm
-**定价**：CNY¥36
+**Size**: 16cm
+**Price**: CNY¥36
 
-@tab 亚克力挂件
+@tab Pendant
 ![](https://pic.mufeng086.com/i/2023/09/16/o4qf7g.webp)
 
-**尺寸**：8cm
-**定价**：CNY¥16
+**Material**: Acrylic
+**Size**: 8cm
+**Price**: CNY¥16
 
-
-@tab 御守
+@tab Amulet
 ![](https://pic.mufeng086.com/i/2023/09/16/o4q3ud.webp)
 
-**材质**：亚克力
-**备注**：配挂绳
-**定价**：CNY¥25
-
-:::
+**Material**: Acrylic
+**Note**: Comes with hanging rope
+**Price**: CNY¥25
 
 
-## 子系列：孟秋
+## Subseries 2
 
 ![](https://pic.mufeng086.com/i/2023/09/16/o2c9cg.webp)
 
-## 子系列：桂月
+## Subseries 3
 
 ![](https://pic.mufeng086.com/i/2023/09/16/o2cjh5.webp)
