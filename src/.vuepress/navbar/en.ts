@@ -5,15 +5,15 @@ export const enNavbar = navbar([
   "/show/",
   "/about/",
   {
-    text: "链接",
+    text: "Links",
     icon: "sitemap",
     children: [
       {
-        text: "高木站点导航",
+        text: "Takagi-Sitemap",
         link: "https://takagi3.cn", 
       },
       {
-        text: "站长博客",
+        text: "Blog",
         link: "https://mufeng086.com",
       },
     ]

@@ -4,7 +4,7 @@ export const enSidebar = sidebar({
   "/": [
     "",
     {
-      text: "商品展示",
+      text: "Showcase",
       icon: "box",
       prefix: "show/",
       link: "show/",
@@ -16,7 +16,7 @@ export const enSidebar = sidebar({
       ],
     },
     {
-      text: "关于/联络",
+      text: "Info/Contract",
       icon: "info",
       prefix: "about/",
       link: "about/",
