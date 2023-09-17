@@ -3,9 +3,8 @@ title: Showcase
 index: false
 icon: box
 ---
-# 列表
 
-## 来自 @阿巴Abba_
+## From @阿巴Abba_
 
 [Christmas Series](/show/abba-1.md)
 [Cyan & White · Spring Series](/show/abba-2.md)
