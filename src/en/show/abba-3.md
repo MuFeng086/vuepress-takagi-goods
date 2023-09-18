@@ -10,7 +10,7 @@ tag:
 **This page is still under development and will be further improved. Please stay tuned for updates.**
 :::
 
-::: info 信息
+::: info
 **Creator：阿巴Abba_**
 **Start Time：2023.08**
 :::

@@ -17,7 +17,8 @@ Bilibili（@是阿巴捏）：https://space.bilibili.com/1203140540
 @tab MuFeng086 (轻虹空雨)
 
 Bilibili：https://space.bilibili.com/321425686
+Mail: mufeng086@gmail.com
 Twitter/X：https://twitter.com/mufeng086
-Facebook：Mu Feng （https://www.facebook.com/profile.php?id=100081194990854）
+Facebook：Mu Feng (https://www.facebook.com/profile.php?id=100081194990854)
 
 :::

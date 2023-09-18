@@ -18,7 +18,8 @@ icon: info
 @tab 轻虹空雨（MuFeng086）
 
 哔哩哔哩：https://space.bilibili.com/321425686
+邮箱：mufeng086@gmail.com
 Twitter/X：https://twitter.com/mufeng086
-Facebook：Mu Feng （https://www.facebook.com/profile.php?id=100081194990854）
+Facebook：Mu Feng (https://www.facebook.com/profile.php?id=100081194990854)
 
 :::
