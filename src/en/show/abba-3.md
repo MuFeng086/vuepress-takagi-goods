@@ -7,6 +7,7 @@ tag:
     - Summer
 ---
 ::: tip
+**This event has ended.**
 **This page is still under development and will be further improved. Please stay tuned for updates.**
 :::
 

@@ -16,6 +16,8 @@ export const enSidebar = sidebar({
         "abba-1",
         "abba-2",
         "abba-3",
+        "abba-4",
+        "abba-5",
         "Manga-End-commemoration-Cards",
       ],
     },
