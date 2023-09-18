@@ -1,14 +1,14 @@
 ---
-title: Showcase
+title: 商品展示
 index: false
 icon: box
 ---
 
-## From @阿巴Abba_
+## 来自 @阿巴Abba_
 
-[Christmas Series](/show/abba-1.md)
-[Cyan & White · Spring Series](/show/abba-2.md)
-[Colorful · Summer Series](/show/abba-3.md)
+[【圣诞】系列](/zh/show/abba-1.md)
+[【天青月白 · 春】系列](/zh/show/abba-2.md)
+[【鸟语蝉鸣 · 夏】系列](/zh/show/abba-3.md)
 
-## Others
-[Customized Commemorative Postcards & Envelope](/show/Manga-End-commemoration-Cards.md)
+## 其他
+[漫画完结纪念定制明信片&信封套组](/zh/show/Manga-End-commemoration-Cards.md)

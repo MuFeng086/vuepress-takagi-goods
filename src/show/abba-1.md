@@ -1,16 +1,16 @@
 ---
-title: Christmas Series
+title: 【圣诞】系列
 category: 
     - 阿巴Abba_
 tag:
-    - Ended
-    - Christmas
+    - 已收官
+    - 圣诞
 --- 
-::: tip
-**This page is still under development and will be further improved. Please stay tuned for updates.**
+::: tip 提示
+**本页装修中，敬请期待**
 :::
 
-::: info
-**Creator：阿巴Abba_**
-**Start Time：2022.12**
+::: info 信息
+**制作者：阿巴Abba_**
+**开展时间：2022.12**
 :::
