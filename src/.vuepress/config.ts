@@ -8,7 +8,7 @@ export default defineUserConfig({
     // ...
   
     ['script', { async: true, src: 'https://analytics.takagi3.top/script.js', 'data-website-id': 'b2291971-225e-4ccf-80a9-e8372d19b145' }],
-    ].
+    ],
   
   locales: {
     "/": {
