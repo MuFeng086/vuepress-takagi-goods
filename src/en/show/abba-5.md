@@ -7,7 +7,7 @@ tag:
     - cheongsam
 ---
 ::: tip 
-**In preparation, stay tuned.**
+**Starting soon, stay tuned.**
 :::
 
 ::: info 
