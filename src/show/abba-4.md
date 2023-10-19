@@ -1,5 +1,5 @@
 ---
-title: 【霜叶红天 · 秋】系列
+title: 【蒹葭伊人 · 秋】系列
 category: 
     - 阿巴Abba_
 tag:
@@ -7,9 +7,11 @@ tag:
     - 秋季
 --- 
 ::: tip 提示
-**筹备中，敬请期待。**
+**即将开启，敬请期待**
 :::
 
 ::: info 信息
 **制作者：阿巴Abba_**
 :::
+
+![](https://pic.mufeng086.com/i/2023/10/19/vg1nso.webp)

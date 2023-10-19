@@ -1,5 +1,5 @@
 ---
-title: Frost leaves & Red sky · Autumn Series
+title: The reed, the girl · Autumn Series
 category: 
     - 阿巴Abba_
 tag:
@@ -13,3 +13,4 @@ tag:
 ::: info 
 **Creator：阿巴Abba_**
 :::
+![989E13E8-6E64-2874-966F-AB012755B2B6](https://pic.mufeng086.com/i/2023/10/19/vg1nso.webp)
