@@ -3,7 +3,7 @@ title: Water town & Cyan sky Series
 category: 
     - 阿巴Abba_
 tag:
-    - Preparing
+    - Pre-Ordering
     - cheongsam
 ---
 ::: tip 
