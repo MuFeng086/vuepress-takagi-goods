@@ -13,9 +13,7 @@ tag:
 ::: tabs
 
 @tab 中国内地
-**定价（含普通邮资）**：8.4元（10月12日前）/ 12元（标价）
-若选择挂号信方式（可跟踪可放入快递柜）需额外加3元   
-**购买渠道（需登录账号）：**<a href="https://afdian.net/order/create?product_type=1&plan_id=68f8207c3c0311eea8a75254001e7c00&sku=%5B%7B%22sku_id%22%3A%2268fb3cb23c0311ee8aab5254001e7c00%22,%22count%22%3A1%7D%5D&is_pimo_kugu_ex=1"><img width="170" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" alt=""></a>
+闲鱼：@轻虹空雨
 
 @tab 中国大陆以外
 **预约截止至12月10日，2024年1月前发出，统一采用挂号信（追踪条码后续私讯）
