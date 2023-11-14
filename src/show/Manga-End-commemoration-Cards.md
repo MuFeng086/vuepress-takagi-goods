@@ -13,13 +13,52 @@ tag:
 ::: tabs
 
 @tab 中国内地
-**定价（含普通邮资）**：8.4元（10月12日前）/ 12元（标价）
-若选择挂号信方式（可跟踪可放入快递柜）需额外加3元   
-**购买渠道（需登录账号）：**<a href="https://afdian.net/order/create?product_type=1&plan_id=68f8207c3c0311eea8a75254001e7c00&sku=%5B%7B%22sku_id%22%3A%2268fb3cb23c0311ee8aab5254001e7c00%22,%22count%22%3A1%7D%5D&is_pimo_kugu_ex=1"><img width="170" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" alt=""></a>
+闲鱼：@轻虹空雨
 
-@tab 港澳台地区
-**定价（含平邮资费）：** CNY¥22
-**付款方式：** WeChat/支付寶AlipayHK/Paypal （请提前通过[电子邮件联系](mailto:mufeng086@gmail.com)我）
+@tab 中国大陆以外
+**预约截止至12月10日，2024年1月前发出，统一采用挂号信（追踪条码后续私讯）
+价格（包含支付中转手续费）：物品本体CNY￥12；邮资：港澳台CNY￥30、新马及周边地区：CNY￥41（其他请私讯商议）**
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="B37ZK4KARVMMA" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="Post Area/所在邮区"/>
+        Post Area/所在邮区
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select name="os0">
+          <option value="Hong Kong &amp; Macau &amp; Taiwan">
+            Hong Kong &amp; Macau &amp; Taiwan NT$185 TWD
+          </option>
+          <option value="South-East Asia">
+            South-East Asia NT$233 TWD
+          </option>
+          <option value="Other">
+            Other NT$265 TWD
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on1" value="留言/Message"/>
+        留言/Message
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="text" name="os1" maxLength="200" />
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="TWD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+</form>
 :::
 
 ---
